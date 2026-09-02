@@ -1,0 +1,10 @@
+{
+  "name": "skillcare",
+  "version": "0.1.0",
+  "description": "Context engineering for Agents. Like a skincare routine, but for working memory.",
+  "author": {
+    "name": "sinsniwal"
+  },
+  "repository": "https://github.com/sinsniwal/skillcare",
+  "license": "MIT"
+}
