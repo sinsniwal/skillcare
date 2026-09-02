@@ -10,10 +10,11 @@ Install plugin as described by https://github.com/sinsniwal/skillcare
 ```
 
 **For Claude Code (as a managed plugin):**
-```bash
-claude plugins install skillcare
+Inside the Claude Code chat, first add the repository as a marketplace, then install:
+```text
+/plugin marketplace add sinsniwal/skillcare
+/plugin install skillcare
 ```
-*(Or use `/plugin install skillcare` inside the Claude Code chat)*
 
 **For all agents (Cursor, Copilot, Antigravity) via `npx skills`:**
 ```bash
