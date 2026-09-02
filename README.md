@@ -4,6 +4,11 @@ Context engineering for Agents. Like a skincare routine, but for working memory.
 
 ## Install
 
+**Tell your agent directly:**
+```text
+Install plugin as described by https://github.com/sinsniwal/skillcare
+```
+
 **For Claude Code (as a managed plugin):**
 ```bash
 claude plugins install skillcare
