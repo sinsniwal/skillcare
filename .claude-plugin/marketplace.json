@@ -1,0 +1,21 @@
+{
+  "name": "skillcare",
+  "owner": {
+    "name": "sinsniwal"
+  },
+  "metadata": {
+    "description": "Marketplace containing the Skillcare plugin.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "skillcare",
+      "source": {
+        "source": "github",
+        "repo": "sinsniwal/skillcare"
+      },
+      "version": "0.1.0",
+      "description": "Context engineering for Agents. Like a skincare routine, but for working memory."
+    }
+  ]
+}
